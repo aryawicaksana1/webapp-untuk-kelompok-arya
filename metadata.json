@@ -1,0 +1,8 @@
+{
+  "name": "Remix TemanKelompok - Platform Rekrutmen Kelompok Kuliah \u0026 Google Sheets",
+  "description": "Aplikasi manajemen dan rekrutmen anggota kelompok tugas kuliah dengan kuota anggota teratur, dashboard admin mata kuliah, dan integrasi Google Sheets via Google Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
